@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>655059876918-dviqntallahngcadb9a7h8e2fh4c9p6p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.655059876918-dviqntallahngcadb9a7h8e2fh4c9p6p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7XiNzHFwU3o2Ni25xp58KRCdAyucjJC4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655059876918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.energon.energon-auth-app</string>
+	<key>PROJECT_ID</key>
+	<string>energon-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>energon-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655059876918:ios:027d1cf92cc85f6313ac97</string>
+	<key>DATABASE_URL</key>
+	<string>https://energon-app.firebaseio.com</string>
+</dict>
+</plist>
